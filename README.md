@@ -35,5 +35,3 @@
 </li>
 </ul>
 
-<a href="https://discord.com/invite/GSvbgFFmn7">現在運営しているDiscordサーバー<a/>
-
